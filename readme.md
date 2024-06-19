@@ -24,6 +24,8 @@ pip install -r requirements.txt
 ## Usage
  Launch the application: ``` python grad_app.py ```
 
+ ![alt text](image.png)
+
 
 ## Contact
 For questions or inquiries about Vital Image Analytics, please contact at (saqibiqbal27772@gmail.com)
